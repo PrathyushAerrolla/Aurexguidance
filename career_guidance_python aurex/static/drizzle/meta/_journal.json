@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1772118516021,
+      "tag": "0000_exotic_lord_tyger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1772118711654,
+      "tag": "0001_charming_warhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772175231150,
+      "tag": "0002_magenta_sir_ram",
+      "breakpoints": true
+    }
+  ]
+}
